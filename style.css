@@ -1,3 +1,8 @@
+.container {
+	max-width: 400px;
+	margin: auto;
+}
+
 #game {
 	width:400px;
 	height: 400px;
@@ -40,41 +45,77 @@
 }
 
 .square-0 {
-  background-color: aqua;
+  background-color: yellowgreen;
 }
 
 .square-1 {
-  background-color: bisque;
+  background-color: yellow;
 }
 
 .square-2 {
-  background-color: blue;
+  background-color: wheat;
 }
 
 .square-3 {
-  background-color: blueviolet;
+  background-color: white;
 }
 
 .square-4 {
-  background-color: brown;
+  background-color: violet;
 }
 
 .square-5 {
-  background-color: cadetblue;
+  background-color: turquoise;
 }
 
 .square-6 {
-  background-color: chartreuse;
+  background-color: tomato;
 }
 
 .square-7 {
-  background-color: chocolate;
+  background-color: thistle;
 }
 
 .square-8 {
-  background-color: coral;
+  background-color: teal;
 }
 
 .square-9 {
-  background-color: cornflowerblue;
+  background-color: tan;
+}
+
+.square-10 {
+  background-color: steelblue;
+}
+
+.square-11 {
+  background-color: springgreen;
+}
+
+.square-12 {
+  background-color: slategray;
+}
+
+.square-13 {
+  background-color: slateblue;
+}
+
+.square-14 {
+  background-color: skyblue;
+}
+
+.square-15 {
+  background-color: sienna;
+}
+
+.square-16 {
+  background-color: seashell;
+}
+
+.square-17 {
+  background-color: seagreen;
+}
+
+.square-18 {
+  background-color: sandybrown;
 }
